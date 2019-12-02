@@ -1,5 +1,0 @@
-2 manter torneio
-3 visualizar status
-4 comparar status 
-7 desafiar oponente
-9 consultar resultado
